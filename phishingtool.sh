@@ -18,11 +18,11 @@ menu () {
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Which tool do you want to use? \e[0m\en' tool
 if [[ $tool == 1 ]]; then
 cd tools/phishingtool
-bash durshikax.sh
+bash phishingtool.sh
 
 elif [[ $tool == 2 ]]; then
 cd tools/phishingtool1
-./senior-mask.sh
+./phishingtool1.sh
 
 else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
