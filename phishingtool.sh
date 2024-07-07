@@ -22,7 +22,7 @@ bash phishingtool.sh
 
 elif [[ $tool == 2 ]]; then
 cd tools/phishingtool1
-./phishingtool1.sh
+bash phishingtool1.sh
 
 else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
