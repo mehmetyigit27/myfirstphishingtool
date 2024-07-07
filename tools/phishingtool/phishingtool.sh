@@ -58,9 +58,14 @@ banner() {
 
 
 printf "     \e[34m\e[1;77m
-phishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtool
-phishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtool
-phishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtoolphishingtool
+|\        /| |-------------  |             | |\        /| |---------------  -----------------
+| \      / | |               |             | | \      / | |                          |
+|  \    /  | |               |             | |  \    /  | |                          |
+|   \  /   | |               |-------------| |   \  /   | |-----------               |
+|    \/    | |----------     |             | |    \/    | |                          |
+|          | |               |             | |          | |                          |
+|          | |               |             | |          | |                          |
+|          | |-------------- |             | |          | |---------------           |
 \e[0m\n"
 }
 clear
