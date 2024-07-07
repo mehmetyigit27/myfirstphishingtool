@@ -1,11 +1,13 @@
 clear
 printf "     \e[34m\e[1;77m
-phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1
-phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1
-phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1
-phishingtool1phishingtool1phishingtool1vphishingtool1phishingtool1phishingtool1phishingtool1phishingtool
-phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1
-phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1phishingtool1
+|\        /| |-------------  |             | |\        /| |---------------  -----------------
+| \      / | |               |             | | \      / | |                          |
+|  \    /  | |               |             | |  \    /  | |                          |
+|   \  /   | |               |-------------| |   \  /   | |-----------               |
+|    \/    | |----------     |             | |    \/    | |                          |
+|          | |               |             | |          | |                          |
+|          | |               |             | |          | |                          |
+|          | |-------------- |             | |          | |---------------           |
 \e[0m\n"
 printf "     \e[1;34m::     phishingtool1 By yigit\e[0m\n"
 printf "     \e[1;34m::     By using this tool, you confirm that all responsibilities belong to you.\e[0m\n"
